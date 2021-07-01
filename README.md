@@ -6,3 +6,5 @@ Metrix vector multiplication optimization project
 ### Reduce the executime time with loop optimizations
 - loop interchange
 - tiling
+
+check out more detail from the mvm_pr.pdf under the presentation folder
